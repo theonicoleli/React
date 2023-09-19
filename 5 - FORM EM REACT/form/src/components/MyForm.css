@@ -1,0 +1,14 @@
+form {
+    width: 500px;
+    margin: auto;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input, textarea, select {
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+}
